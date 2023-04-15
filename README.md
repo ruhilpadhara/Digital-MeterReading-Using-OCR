@@ -20,3 +20,6 @@ reduce their energy consumption and save money. Overall, the "Reading Meter and 
 offers a convenient and efficient way for users to manage their electricity bills, saving them 
 time and effort while ensuring accurate readings and secure payments.
 # Output
+![WhatsApp Image 2023-04-13 at 10 25 56 PM](https://user-images.githubusercontent.com/92166631/232251679-dc23c518-1eec-4a37-bf5d-b32fc24654e7.jpg)
+![WhatsApp Image 2023-04-13 at 10 25 57 PM (1)](https://user-images.githubusercontent.com/92166631/232251682-62a2d011-e935-42df-ad49-66ebf923a564.jpeg)
+![WhatsApp Image 2023-04-13 at 10 25 57 PM](https://user-images.githubusercontent.com/92166631/232251683-1f7dced2-c800-4681-b24f-da76a7ef0517.jpeg)
